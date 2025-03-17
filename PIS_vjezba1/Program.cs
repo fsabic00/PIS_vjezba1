@@ -12,6 +12,7 @@ namespace PIS_vjezba1
         {
             Console.WriteLine("hello world!");
             //izmjena
+            // komentar
         }
     }
 }
