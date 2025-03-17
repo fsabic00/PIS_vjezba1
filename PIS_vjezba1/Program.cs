@@ -10,7 +10,7 @@ namespace PIS_vjezba1
     {
         static void Main(string[] args)
         {
-            //komentar
+            Console.WriteLine("hello world!");
         }
     }
 }
